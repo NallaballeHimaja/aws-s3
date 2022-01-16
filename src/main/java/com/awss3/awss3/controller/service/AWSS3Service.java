@@ -38,7 +38,7 @@ public class AWSS3Service {
         s3Client.putObject(
                 "docs",
                 "Java Interview Programs.docx",
-                new File("C:\\Chandra\\Java Interview Programs.docx")
+                new File("C:\\CDoc\\Java Interview Programs.docx")
         );*/
     }
 }
